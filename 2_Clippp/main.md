@@ -1,4 +1,4 @@
-# 是 POC 還是最終版？ | 用 C# 實作 Windows 剪貼簿管理工具
+# 是 POC 還是 RC？ | 用 C# 實作 Windows 剪貼簿管理工具
 
 ## 前言
 
@@ -36,4 +36,4 @@
 
 ## LINK
 
-* [是 POC 還是最終版？ | 用 C# 實作 Windows 剪貼簿管理工具](https://github.com/dang113108/forum_post)
+* [是 POC 還是 RC？ | 用 C# 實作 Windows 剪貼簿管理工具](https://github.com/dang113108/forum_post)
